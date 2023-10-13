@@ -1,5 +1,13 @@
 main {
   text-align: center;
   vertical-align: center;
-  line-height: 100vh
+  /* line-height: 100vh; */
+  background: #453a4b;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
 }
