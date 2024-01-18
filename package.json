@@ -1,4 +1,4 @@
-{ "homepage": "github.com/myquery/eventifyapp",
+{
   "name": "eventify",
   "version": "0.1.0",
   "private": true,
